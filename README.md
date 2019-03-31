@@ -1,4 +1,4 @@
-# LingHacks II
+# LingHacks II:
 # Movie Suggestions Widget:
    1. Takes in a user-inputted movie title that they like to watch or have watched
    2. Presents them with a set of movie recommendations with similar plots, directors, or genres
