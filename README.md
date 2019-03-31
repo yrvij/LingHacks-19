@@ -6,5 +6,7 @@
 
 # Computational Linguistics Tools:
    1. rake_nltk => to analyze key phrases in text and check frequency of occurence 
+         {https://pypi.org/project/rake-nltk/}
    2. sklearn => for cosine_similarity and CountVectorizer 
+         
 
